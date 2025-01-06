@@ -1,4 +1,4 @@
-# Flarpy bird copy
+# Flarpy bird (2D)
   my own version of Flapy bird which i have made with unity game engine for learning and practicing the basics of game development... <br>
 Here's the game view --><br> #1.<img src="View/Screenshot 2024-12-28 at 4.46.16 PM.png" alt="game view" height="600" width="800" align="right">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>#2
