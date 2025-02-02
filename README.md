@@ -15,7 +15,7 @@ Here's the game view --><br> #1.<img src="View/Screenshot 2024-12-28 at 4.46.16�
 <img src="View/Screenshot 2024-12-28 at 4.52.48 PM.png" alt="game view" height="600" width="800" align="right">
 
 
-
+<!--
 
 ## 🚀 About Me
 I am passinet  Game devloper
@@ -155,3 +155,4 @@ Install my-project
 | `id`      | `string` | **Required**. Id of item to fetch |
 
 
+-->
